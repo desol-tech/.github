@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
+DESOL Technologies is a Vietnam high-tech company. Providing advanced digital services and solutions to Internet-based enterprises.
 
-**Here are some ideas to get you started:**
+We issue licenses and grant clients access to our platforms equipped with superior features and capabilities designed to convert business pains into operational gains.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Providing the best and most reliable software to help our clients maximize profit and minimize costs is our ultimate and primary mission.
+
+Let’s partner up to turn your creative ideas into innovative products.
+
+https://desol-tech.com/
